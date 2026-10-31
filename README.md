@@ -29,3 +29,4 @@ O link do grupo está no atributo `href` do botão `#join-button` em `src/index.
 
 ## Observação sobre atividade
 A notificação inicial comunica que o Radar de Ofertas está ativo; ela não afirma que uma pessoa específica entrou no grupo. Para exibir entradas reais, será necessário integrar uma fonte autorizada de eventos de entrada do WhatsApp.
+# radar-de-ofertas
